@@ -18,3 +18,9 @@ Here we will list papers that maybe discussed, but you are welcome to add new pa
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf)
 * [Colorful image colorization](https://arxiv.org/pdf/1603.08511.pdf)
 * [SSD: Single shot multibox detector](https://arxiv.org/pdf/1512.02325.pdf)
+
+## Tutorials
+* General ML - [Link](https://github.com/qingkaikong/20170628_ML_sklearn)
+* ANN - [Link](https://github.com/qingkaikong/20181129_ANN_basics_DLab)
+* CNN - [Link](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/), [Link](https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050)
+* SVM - [Link](https://qingkaikong.blogspot.com/2016/12/machine-learning-7-support-vector.html)
