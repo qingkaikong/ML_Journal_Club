@@ -6,6 +6,11 @@ Here we will list papers that maybe discussed, but you are welcome to add new pa
 * [Deep Learning](https://www.nature.com/articles/nature14539) - Overview
 * [Visualizing and understanding convolutional networks](https://arxiv.org/pdf/1311.2901.pdf) - Understanding
 
+## ML Methods
+* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf) - Object detection
+* [SSD: Single shot multibox detector](https://arxiv.org/pdf/1512.02325.pdf) - Object detection
+* [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - GAN
+
 ## ML in Seismology
 * [Machine Learning in Seismology](https://pubs.geoscienceworld.org/ssa/srl/article/566430/machine-learning-in-seismology-turning-data-into) - Review paper
 * [Machine Learning in MyShake](https://pubs.geoscienceworld.org/ssa/srl/article/567499/machine-learning-aspects-of-the-myshake-global) - Review paper
@@ -17,7 +22,7 @@ Here we will list papers that maybe discussed, but you are welcome to add new pa
 ## ML Interesting Applications
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf)
 * [Colorful image colorization](https://arxiv.org/pdf/1603.08511.pdf)
-* [SSD: Single shot multibox detector](https://arxiv.org/pdf/1512.02325.pdf)
+* [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
 
 ## Tutorials
 * General ML - [Link](https://github.com/qingkaikong/20170628_ML_sklearn)
