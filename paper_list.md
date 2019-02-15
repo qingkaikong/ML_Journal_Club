@@ -15,9 +15,9 @@ Here we will list papers that maybe discussed, but you are welcome to add new pa
 * [Machine Learning in Seismology](https://pubs.geoscienceworld.org/ssa/srl/article/566430/machine-learning-in-seismology-turning-data-into) - Review paper
 * [Machine Learning in MyShake](https://pubs.geoscienceworld.org/ssa/srl/article/567499/machine-learning-aspects-of-the-myshake-global) - Review paper
 * [Deep learning of aftershock patterns following large earthquakes](https://www.nature.com/articles/s41586-018-0438-y) - Application
-* [PhaseNet: a deep-neural-network-based seismic arrival-time picking method](https://academic.oup.com/gji/article/216/1/261/5129142) - Application
+* [~~PhaseNet: a deep-neural-network-based seismic arrival-time picking method~~](https://academic.oup.com/gji/article/216/1/261/5129142) - Application
 * [Convolutional neural network for earthquake detection and location](http://advances.sciencemag.org/content/4/2/e1700578.full) - Application
-* [~~PhaseLink: A Deep Learning Approach to Seismic Phase Association~~](https://arxiv.org/abs/1809.02880) - Application
+* [PhaseLink: A Deep Learning Approach to Seismic Phase Association](https://arxiv.org/abs/1809.02880) - Application
 
 ## ML Interesting Applications
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf)
