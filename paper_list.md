@@ -38,6 +38,7 @@ Here we will list papers that maybe discussed, but you are welcome to add new pa
 * [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360)
 
 ## Tutorials
+* [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
 * General ML - [Link](https://github.com/qingkaikong/20170628_ML_sklearn)
 * ANN - [Link](https://github.com/qingkaikong/20181129_ANN_basics_DLab)
 * CNN - [Link](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/), [Link](https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050)
