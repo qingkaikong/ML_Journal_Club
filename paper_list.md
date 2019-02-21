@@ -22,7 +22,7 @@ Here we will list papers that maybe discussed, but you are welcome to add new pa
 ## ML Interesting Applications
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf)
 * [Colorful image colorization](https://arxiv.org/pdf/1603.08511.pdf)
-* [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
+* [~~Image Super-Resolution Using Deep Convolutional Networks~~](https://arxiv.org/pdf/1501.00092.pdf)
 
 ## Data
 * [Benchmark Dataset for Automatic Damaged Building Detection from Post-Hurricane Remotely Sensed Imagery](https://arxiv.org/pdf/1812.05581.pdf)
