@@ -37,6 +37,12 @@ Here we will list papers that maybe discussed, but you are welcome to add new pa
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
 * [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360)
 
+## Transfer Learning
+* [What makes ImageNet good for transfer learning?](https://arxiv.org/pdf/1608.08614v2.pdf)
+* [A Survey on Transfer Learning - 2009](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf) 
+* [A Survey of Transfer Learning - 2016](https://link.springer.com/article/10.1186/s40537-016-0043-6)
+* [Combining satellite imagery and machine learning to predict poverty](http://science.sciencemag.org/content/353/6301/790)
+
 ## Tutorials
 * [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
 * General ML - [Link](https://github.com/qingkaikong/20170628_ML_sklearn)
