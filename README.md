@@ -1,5 +1,8 @@
 # ML_Journal_Club
 
+**2019-03-14**
+* [Benchmark Dataset for Automatic Damaged Building Detection from Post-Hurricane Remotely Sensed Imagery](https://arxiv.org/pdf/1812.05581.pdf) - by Sean Andrew Chen, Andrew Escay, Christopher Haberland, Tessa Schneider, Valentina Staneva, and Youngjun Choe, presented by Jennifer Grannen [Presentation](https://github.com/qingkaikong/ML_Journal_Club/blob/master/presentations/20190314_JG.pdf)
+
 **2019-03-07** 
 * [What makes ImageNet good for transfer learning?](https://arxiv.org/pdf/1608.08614v2.pdf) - by  Minyoung Huh, Pulkit Agrawal, Alexei A. Efros, presented by 
 Gaurav Chachra [Presentation](https://github.com/qingkaikong/ML_Journal_Club/blob/master/presentations/20190307_GC.pdf)
