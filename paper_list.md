@@ -25,7 +25,10 @@ Here we will list papers that maybe discussed, but you are welcome to add new pa
 * [~~Image Super-Resolution Using Deep Convolutional Networks~~](https://arxiv.org/pdf/1501.00092.pdf)
 
 ## Data
-* [Benchmark Dataset for Automatic Damaged Building Detection from Post-Hurricane Remotely Sensed Imagery](https://arxiv.org/pdf/1812.05581.pdf)
+* [~~Benchmark Dataset for Automatic Damaged Building Detection from Post-Hurricane Remotely Sensed Imagery~~](https://arxiv.org/pdf/1812.05581.pdf)
+
+## Imbalanced Data
+* [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning_lecturenotes.pdf)   
 
 ## Network Architecture
 * [FCN - Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
