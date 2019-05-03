@@ -1,5 +1,8 @@
 # ML_Journal_Club
 
+
+* [Combining satellite imagery and machine learning to predict poverty](http://science.sciencemag.org/content/353/6301/790) - by Neal Jean, Marshall Burke, Michael Xie, W. Matthew Davis, David B. Lobell, Stefano Ermon, presented by Srujay Korlakunta [Presentation](https://github.com/qingkaikong/ML_Journal_Club/blob/master/presentations/20190503_SK.pdf)
+
 **2019-03-14**
 * [Benchmark Dataset for Automatic Damaged Building Detection from Post-Hurricane Remotely Sensed Imagery](https://arxiv.org/pdf/1812.05581.pdf) - by Sean Andrew Chen, Andrew Escay, Christopher Haberland, Tessa Schneider, Valentina Staneva, and Youngjun Choe, presented by Jennifer Grannen [Presentation](https://github.com/qingkaikong/ML_Journal_Club/blob/master/presentations/20190314_JG.pdf)
 
